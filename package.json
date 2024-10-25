@@ -1,0 +1,21 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node q1.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayhello": "echo 'Hello from Node.js script!'",
+    "build": "echo 'Building the project...'",
+    "deploy": "echo 'Deploying the project...'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.6.0",
+    "node-fetch": "^3.3.2"
+  }
+}
